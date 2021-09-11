@@ -1,0 +1,58 @@
+/* sizes */
+.uD0-size-32{
+    height: 32px;
+    width: 32px;
+}
+
+.uD0-size-72{
+    height: 72px;
+    width: 72px;
+}
+
+.uD0-size-42-36{
+    width: 42px;
+    height: 36px;
+}
+
+/* borders */
+.uD0-dash-br{
+    border-style: dashed;
+    border-width: 2px;
+}
+
+.uD0-solid-br{
+    border-style: solid;
+    border-width: 2px;
+}
+
+
+/* radius */
+.uD0-radius-5{
+    border-radius: 5px;
+}
+
+
+/* image utilities */
+.uD0-cover{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+/* margins */
+.uD0-m-l-auto{
+    margin-left: auto;
+}
+
+
+/* flex utilities*/
+.uD0-gap-24{
+    gap: 24px;
+}
+
+
+/* cursor */
+.uD0-click{
+    cursor: pointer;
+}

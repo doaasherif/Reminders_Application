@@ -1,0 +1,71 @@
+body{
+    margin: 0;
+}
+
+li{
+    padding-left: 24px;
+}
+
+.D0-aside{
+    height: 100vh;
+    min-width: 462px;
+    transition: all ease-in-out 400ms;
+}
+
+.D0-aside-con{
+    height: 100vh;
+}
+
+.D0-nav{
+    height: 176px;
+    width: 100%;
+
+}
+
+.D0-master-container{
+    /* height: 80px; */
+    width: 100%;
+}
+
+.D0-rem-header{
+    height: 80px;
+    padding: 24px;
+}
+
+.D0-aside-li{
+    height: 80px;
+}
+
+.D0-user-sec{
+    height: 120px;
+    max-height: 120px;
+}
+
+.D0-createTask{
+    height: 120px;   
+    margin-bottom: 24px;
+    padding-left: 40px;
+}
+
+.D0-createTask > p{
+    margin: 0px;
+}
+
+.D0-createTask > input{
+    margin-right:24px;
+}
+
+.D0-b-more{
+    width: 80px;
+    height:120px
+}
+
+.D0-tools{
+    width: 120px;
+    height:120px
+}
+
+.D0-tool-bar{
+    right: -721px;
+    transition: all ease-in-out 200ms;
+}

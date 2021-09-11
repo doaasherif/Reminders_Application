@@ -1,0 +1,49 @@
+/* backgrounds */
+.cD0-bg-dark-gray{
+    background-color: #393D42;
+}
+
+.cD0-bg-white-gray{
+    background-color: #F8F9FA;
+}
+
+.cD0-bg-light-gray{
+    background-color: rgba(57, 61, 66, 0.349);
+}
+
+.cD0-bg-blue{
+    background-color: #457AFB;
+}
+
+.cD0-bg-blue-30{
+    background-color: rgba(69, 121, 251, 0.3);
+}
+
+.cD0-bg-light-pink{
+    background-color: rgb(233, 134, 228);
+}
+
+
+
+/* colors */
+.cD0-gray{
+    color: #6E747C;
+}
+
+.cD0-white-gray{
+    color: #F8F9FA;
+}
+
+.cD0-dark-gray-border{
+    border-color: #393D42;
+}
+
+.cD0-light-gray-border{
+    border-color: #6E747C;
+}
+
+
+/* drop shadow */
+.cD0-dsh-black{
+    filter: drop-shadow(0px 3px 6px #000000);
+}
